@@ -9,3 +9,6 @@ results/
 uv.lock
 development_setup.md
 debug.log
+
+config_local.py
+.env

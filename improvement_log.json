@@ -1,0 +1,339 @@
+[
+  {
+    "timestamp": "2026-06-18 20:11",
+    "n_stocks": 15,
+    "n_tests": 45,
+    "backtest_mape": 6.5768522748516665,
+    "backtest_dir": 0.6222222222222222,
+    "train_mae": 0.039059221744537354,
+    "train_dir": 0.5783088235294118,
+    "best_cfg": {
+      "n_estimators": 600,
+      "max_depth": 3,
+      "learning_rate": 0.05,
+      "subsample": 0.9,
+      "colsample_bytree": 0.9,
+      "gamma": 0.0,
+      "min_child_weight": 2,
+      "reg_alpha": 0.3,
+      "reg_lambda": 3.0
+    },
+    "actual_trees": 12
+  },
+  {
+    "timestamp": "2026-06-18 20:15",
+    "n_stocks": 15,
+    "n_tests": 45,
+    "backtest_mape": 5.617146053247982,
+    "backtest_dir": 0.4888888888888889,
+    "train_mae": 0.037511445581912994,
+    "train_dir": 0.5959558823529412,
+    "best_cfg": {
+      "n_estimators": 600,
+      "max_depth": 3,
+      "learning_rate": 0.05,
+      "subsample": 0.9,
+      "colsample_bytree": 0.9,
+      "gamma": 0.0,
+      "min_child_weight": 2,
+      "reg_alpha": 0.3,
+      "reg_lambda": 3.0
+    },
+    "actual_trees": 50
+  },
+  {
+    "timestamp": "2026-06-18 20:18",
+    "n_stocks": 15,
+    "n_tests": 45,
+    "backtest_mape": 5.731537909143501,
+    "backtest_dir": 0.5111111111111111,
+    "train_mae": 0.038100603967905045,
+    "train_dir": 0.5800245098039216,
+    "best_cfg": {
+      "n_estimators": 600,
+      "max_depth": 3,
+      "learning_rate": 0.05,
+      "subsample": 0.9,
+      "colsample_bytree": 0.9,
+      "gamma": 0.0,
+      "min_child_weight": 2,
+      "reg_alpha": 0.3,
+      "reg_lambda": 3.0
+    },
+    "actual_trees": 32
+  },
+  {
+    "timestamp": "2026-06-18 20:22",
+    "n_stocks": 15,
+    "n_tests": 45,
+    "backtest_mape": 5.702395633690887,
+    "backtest_dir": 0.5333333333333333,
+    "train_mae": 0.03603086993098259,
+    "train_dir": 0.6311274509803921,
+    "best_cfg": {
+      "n_estimators": 500,
+      "max_depth": 4,
+      "learning_rate": 0.03,
+      "subsample": 0.8,
+      "colsample_bytree": 0.7,
+      "gamma": 0.0,
+      "min_child_weight": 1,
+      "reg_alpha": 0.1,
+      "reg_lambda": 1.0
+    },
+    "actual_trees": 100
+  },
+  {
+    "timestamp": "2026-06-18 20:25",
+    "n_stocks": 15,
+    "n_tests": 45,
+    "backtest_mape": 5.989249011294709,
+    "backtest_dir": 0.6222222222222222,
+    "train_mae": 0.03426038846373558,
+    "train_dir": 0.675,
+    "best_cfg": {
+      "n_estimators": 500,
+      "max_depth": 4,
+      "learning_rate": 0.03,
+      "subsample": 0.8,
+      "colsample_bytree": 0.7,
+      "gamma": 0.0,
+      "min_child_weight": 1,
+      "reg_alpha": 0.1,
+      "reg_lambda": 1.0
+    },
+    "actual_trees": 200
+  },
+  {
+    "timestamp": "2026-06-18 20:28",
+    "n_stocks": 15,
+    "n_tests": 45,
+    "backtest_mape": 6.142208992193143,
+    "backtest_dir": 0.6222222222222222,
+    "train_mae": 0.031593214720487595,
+    "train_dir": 0.7162990196078431,
+    "best_cfg": {
+      "n_estimators": 500,
+      "max_depth": 4,
+      "learning_rate": 0.03,
+      "subsample": 0.8,
+      "colsample_bytree": 0.7,
+      "gamma": 0.0,
+      "min_child_weight": 1,
+      "reg_alpha": 0.1,
+      "reg_lambda": 1.0
+    },
+    "actual_trees": 400
+  },
+  {
+    "timestamp": "2026-06-18 21:02",
+    "n_stocks": 15,
+    "n_tests": 45,
+    "backtest_mape": 5.9106970930265055,
+    "backtest_dir": 0.6,
+    "train_mae": 0.034989334642887115,
+    "train_dir": 0.6744362713308999,
+    "best_cfg": {
+      "n_estimators": 500,
+      "max_depth": 4,
+      "learning_rate": 0.03,
+      "subsample": 0.8,
+      "colsample_bytree": 0.7,
+      "gamma": 0.0,
+      "min_child_weight": 1,
+      "reg_alpha": 0.1,
+      "reg_lambda": 1.0
+    },
+    "actual_trees": 500
+  },
+  {
+    "timestamp": "2026-06-18 21:16",
+    "n_stocks": 15,
+    "n_tests": 45,
+    "backtest_mape": 5.8371128390232725,
+    "backtest_dir": 0.4666666666666667,
+    "train_mae": 0.034989334642887115,
+    "train_dir": 0.6744362713308999,
+    "best_cfg": {
+      "n_estimators": 500,
+      "max_depth": 4,
+      "learning_rate": 0.03,
+      "subsample": 0.8,
+      "colsample_bytree": 0.7,
+      "gamma": 0.0,
+      "min_child_weight": 1,
+      "reg_alpha": 0.1,
+      "reg_lambda": 1.0
+    },
+    "actual_trees": 500
+  },
+  {
+    "timestamp": "2026-06-18 21:31",
+    "n_stocks": 15,
+    "n_tests": 45,
+    "backtest_mape": 6.070145811471674,
+    "backtest_dir": 0.4222222222222222,
+    "val_mae": 0.03177017346024513,
+    "val_dir": 0.6499505928853755,
+    "saved": false,
+    "best_cfg": {
+      "n_estimators": 500,
+      "max_depth": 4,
+      "learning_rate": 0.03,
+      "subsample": 0.8,
+      "colsample_bytree": 0.7,
+      "gamma": 0.0,
+      "min_child_weight": 1,
+      "reg_alpha": 0.1,
+      "reg_lambda": 1.0
+    },
+    "actual_trees": 500
+  },
+  {
+    "timestamp": "2026-06-18 22:55",
+    "n_stocks": 15,
+    "n_tests": 45,
+    "backtest_mape": 5.671253783835305,
+    "backtest_dir": 0.5111111111111111,
+    "val_dir": 0.6716897233201581,
+    "saved": true,
+    "best_cfg": {
+      "n_estimators": 400,
+      "max_depth": 6,
+      "learning_rate": 0.04,
+      "subsample": 0.8,
+      "colsample_bytree": 0.7,
+      "gamma": 0.2,
+      "min_child_weight": 5,
+      "reg_alpha": 0.1,
+      "reg_lambda": 1.0
+    },
+    "actual_trees": 393
+  },
+  {
+    "timestamp": "2026-06-18 23:00",
+    "n_stocks": 15,
+    "n_tests": 45,
+    "backtest_mape": 5.694599772493045,
+    "backtest_dir": 0.5111111111111111,
+    "val_dir": 0.6716897233201581,
+    "saved": false,
+    "best_cfg": {
+      "n_estimators": 400,
+      "max_depth": 6,
+      "learning_rate": 0.04,
+      "subsample": 0.8,
+      "colsample_bytree": 0.7,
+      "gamma": 0.2,
+      "min_child_weight": 5,
+      "reg_alpha": 0.1,
+      "reg_lambda": 1.0
+    },
+    "actual_trees": 393
+  },
+  {
+    "timestamp": "2026-06-18 23:52",
+    "n_stocks": 15,
+    "n_tests": 45,
+    "backtest_mape": 5.675217823849784,
+    "backtest_dir": 0.5555555555555556,
+    "val_dir": 0.7099802371541502,
+    "saved": true,
+    "best_cfg": {
+      "n_estimators": 400,
+      "max_depth": 6,
+      "learning_rate": 0.04,
+      "subsample": 0.8,
+      "colsample_bytree": 0.7,
+      "gamma": 0.2,
+      "min_child_weight": 5,
+      "reg_alpha": 0.1,
+      "reg_lambda": 1.0
+    },
+    "actual_trees": 399
+  },
+  {
+    "timestamp": "2026-06-18 23:59",
+    "n_stocks": 15,
+    "n_tests": 45,
+    "backtest_mape": 5.648780239539014,
+    "backtest_dir": 0.5111111111111111,
+    "val_dir": 0.7099802371541502,
+    "saved": false,
+    "best_cfg": {
+      "n_estimators": 400,
+      "max_depth": 6,
+      "learning_rate": 0.04,
+      "subsample": 0.8,
+      "colsample_bytree": 0.7,
+      "gamma": 0.2,
+      "min_child_weight": 5,
+      "reg_alpha": 0.1,
+      "reg_lambda": 1.0
+    },
+    "actual_trees": 399
+  },
+  {
+    "timestamp": "2026-06-19 00:06",
+    "n_stocks": 15,
+    "n_tests": 45,
+    "backtest_mape": 5.351797058764431,
+    "backtest_dir": 0.5111111111111111,
+    "val_dir": 0.7171442687747036,
+    "saved": true,
+    "best_cfg": {
+      "n_estimators": 300,
+      "max_depth": 8,
+      "learning_rate": 0.05,
+      "subsample": 0.7,
+      "colsample_bytree": 0.6,
+      "gamma": 0.4,
+      "min_child_weight": 10,
+      "reg_alpha": 0.3,
+      "reg_lambda": 2.0
+    },
+    "actual_trees": 295
+  },
+  {
+    "timestamp": "2026-06-19 00:11",
+    "n_stocks": 15,
+    "n_tests": 45,
+    "backtest_mape": 5.341792764763038,
+    "backtest_dir": 0.5111111111111111,
+    "val_dir": 0.7204792490118577,
+    "saved": true,
+    "best_cfg": {
+      "n_estimators": 200,
+      "max_depth": 9,
+      "learning_rate": 0.07,
+      "subsample": 0.65,
+      "colsample_bytree": 0.5,
+      "gamma": 0.6,
+      "min_child_weight": 15,
+      "reg_alpha": 0.5,
+      "reg_lambda": 3.0
+    },
+    "actual_trees": 199
+  },
+  {
+    "timestamp": "2026-06-20 01:06",
+    "n_stocks": 175,
+    "n_tests": 875,
+    "backtest_mape": 4.863594877719879,
+    "backtest_dir": 0.7142857142857143,
+    "val_dir": 0.7096820809248555,
+    "saved": true,
+    "best_cfg": {
+      "n_estimators": 350,
+      "max_depth": 8,
+      "learning_rate": 0.04,
+      "subsample": 0.65,
+      "colsample_bytree": 0.55,
+      "gamma": 0.4,
+      "min_child_weight": 10,
+      "reg_alpha": 0.3,
+      "reg_lambda": 2.0
+    },
+    "actual_trees": 344
+  }
+]
